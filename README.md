@@ -9,3 +9,5 @@
 - uses GitHub API to get repositories
 
 https://react-portfolio-pxnj.onrender.com/
+
+<img width="1868" height="912" alt="image" src="https://github.com/user-attachments/assets/83e28a88-78a4-43c0-a67e-73935032468f" />
