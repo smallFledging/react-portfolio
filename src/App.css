@@ -1,0 +1,34 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input, button {
+  display: block;
+  margin: auto;
+}
+
+input {
+  background-color: white;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  border-radius: 10px;
+}
+
+textarea {
+  background-color: white;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
+label {
+  display: block;
+  text-align: center;
+  
+}
+
+nav {
+  display: inline-block;
+}
