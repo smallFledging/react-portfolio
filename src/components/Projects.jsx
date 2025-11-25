@@ -33,7 +33,7 @@ const Projects = () => {
         return (
             <div>
                 <Nav/>
-                <main>
+                <main class="mb-10">
                     <h1 class="text-3xl mt-10">List of public projects on Github</h1>
                     {projects.map((x, index) => (
                         <div class="mt-5" key={x.id}>
